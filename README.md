@@ -1,9 +1,9 @@
-# Project-2--VisualizeMe
+# Project-2-VisualizeMe - Global Meteorite Strikes
 
-   -Alekya Gadiraju
+   ## Group 1
+
+   Alekya Gadiraju, Edyson Katuuo, Jenish Jariwala, Jess Hunter
    
-   -Edyson Katuuo
+    
    
-   -Jenish Jariwala
    
-   -Jess Hunter
