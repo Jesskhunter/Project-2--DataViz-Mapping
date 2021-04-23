@@ -7,7 +7,7 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session, query
 
 
-engine = create_engine(f'postgresql://postgres:{password}@localhost:5432/Meteorite_Landings')
+engine = create_engine(f'postgresql://postgres:{password}@localhost:5432/meteorite-landings')
 conn = engine.connect()
  
  # reflect an existing database into a new model
